@@ -1,0 +1,17 @@
+// Simple Java Program about RCB
+public class RCB {
+    public static void main(String[] args) {
+        // Team name
+        String team = "Royal Challengers Bangalore";
+        // Captain name (example)
+        String captain = "Faf du Plessis";
+        // Star player
+        String starPlayer = "Virat Kohli";
+
+        // Print details
+        System.out.println("🏏 Team: " + team);
+        System.out.println("🧢 Captain: " + captain);
+        System.out.println("⭐ Star Player: " + starPlayer);
+        System.out.println("Ee Sala Cup Namde!");
+    }
+}
