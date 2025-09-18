@@ -1,0 +1,15 @@
+public class ABdeVilliers {
+    public static void main(String[] args) {
+        // Player details
+        String name = "AB de Villiers";
+        String country = "South Africa";
+        String team = "Royal Challengers Bangalore";
+        String speciality = "Mr. 360° - All round batting style";
+
+        // Print details
+        System.out.println("🏏 Player Name: " + name);
+        System.out.println("🌍 Country: " + country);
+        System.out.println("🔴 IPL Team: " + team);
+        System.out.println("✨ Speciality: " + speciality);
+    }
+}
